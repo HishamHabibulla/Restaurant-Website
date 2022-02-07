@@ -1,0 +1,83 @@
+@media (max-width: 575.98px){
+    #banner-part .main-title h1 {
+        font-size: 30px;
+    }
+    .first-topic h5 span {
+        margin-left: 130px !important;
+    }
+
+    .topic-two h5 span {
+        margin-left: 130px !important;
+    }
+
+    #review-part .review-overlay h3 {
+        
+        font-size: 25px;
+        
+    }
+
+    #review-part .review-overlay p {
+       
+        font-size: 16px;
+        
+    }
+
+    #ingredients-part .ingredients .ingredients-overlay img {
+        width: 110px;
+    }
+
+    #review-part .review-overlay img {
+        
+        width: 100px;
+    }
+
+    .two {
+        
+        width: 210px;
+    }
+
+    #ingredients-part .ingredients .ingredients-overlay h4 {
+        
+        font-size: 15px;
+        
+    }
+
+    #contact-part .about-us img {
+        
+        width: 76px;
+    }
+
+    .appetisers img{
+        width: 167px;
+    }
+
+    .one {
+        
+        width: 153px;
+    }
+
+    #contact-part .opening_hours img {
+        
+        width: 110px;
+    }
+
+    .food-image img{
+        width: 171px;
+    }
+
+    .booking-part img{
+        width: 171px;
+    }
+
+    input{
+        max-width: 100% !important;
+    }
+
+    .appetisers h4 {
+        
+        font-size: 25px;
+        
+    }
+
+
+}
